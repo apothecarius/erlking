@@ -28,14 +28,14 @@ intro_a_lh = \relative c' {
   d, \repeat unfold 3 {<es' d>} <es c> <es c> |
   d, \repeat unfold 3 {<es' c>} <d bes> <d bes>
   d, \repeat unfold 3 {<cis' bes>} <cis a> <cis a> |
-  d, \repeat unfold 5{d'}
+  d, d'-2 d d d d
   d, \repeat unfold 3<es' d> <es c> <es c> | 
   d, \repeat unfold 5<es' c>
-  d, \repeat unfold 3<d' bes> <cis a>8 | %Wer...
+  d, \repeat unfold 3<d' bes> <cis a>8-2-4 | %Wer...
 }
 
 intro_b_lh = \relative c'{
-  \repeat unfold 4 {<d,, a'>4 <d a'>8} |
+  <d,, a'>4-1-5 <d a'>8-1-3 \repeat unfold 3 {<d a'>4 <d a'>8} |
   <bes bes'>4 <bes'' bes,>8 <g g,>4 <g g,>8|
   <c, c,> <c c'> <bes' bes,> <a a,>4 <a a,>8 |
   %ende Seite 6 (erste Seite)

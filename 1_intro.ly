@@ -23,7 +23,7 @@ intro_b_rh = \relative c'{
   r <c e a>-1-2-4 <c e a> <d e b'> r <gis e b>-1-2-4 r <a e c>-1-2-5 <a e c> <a e c> <a a,>8-1-5 | %Mein...
 }
 
-intro_a_lyrics = \lyricmode {
+intro_lyrics = \lyricmode {
 _1 _ _2 _4 _8 Wer8 |
 rei- tet so spät _ durch |
 Nacht _ und Wind? _ Es |
@@ -32,17 +32,7 @@ sei- _ nem Kind. _ Er |
 hat _ den Kna- ben wohl |
 in _ dem Arm. _ Er |
 fasst _ ihn si- cher. Er |
-hält _ ihn warm. _ Mein |
-Sohn, _ was birgst du so |
-bang dein Ge- sicht? _ Siehst
-Va- _ ter du den Erl- |
-kö- _ nig nicht? _ Den |
-Er- _ len- kö- nig mit |
-Kron _ und Schweif. _ Mein |
-Sohn, _ mein Sohn _ es_ist_ein |
-Ne- _ bel- schweif _ Mein |
-Sohn _ es ist _ ein |
-Ne- _ bel- schweif. _ 
+hält _ ihn warm. _ Mein | 
 }
 
 intro_a_lh = \relative c' {

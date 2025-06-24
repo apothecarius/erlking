@@ -19,7 +19,8 @@
         \meinSohn_a_rh
       }
     \new Lyrics{
-      \intro_a_lyrics
+      \intro_lyrics
+      \meinSohn_lyrics
     }  
       \new Staff \relative c' {
         \time 6/8

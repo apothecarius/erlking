@@ -13,11 +13,11 @@ intro_a_rh = \relative c' {
 
 intro_b_rh = \relative c'{
   r16 d-1 d d r <d e> r <d f> <d f> <d f> r <d f> |
-  r <d f> <d f> <e g> r <f a> r d d d r <d e> |
+  r <d f> <d f> <e g> r <f a> r d-2 d d r <d e> |
   r <d f>-2-4 <d f> <d f> r <d f> r \repeat unfold 3 {<g d bes>} r <g d bes> |
   r <g e>-2-4 r <f d> r <g e d> r \repeat unfold 3 {<cis, e a>} r <cis e a> |
   %ende Seite 6 (erste Seite)
-  r16 <d f a> <d f a> <d f a> r <f a>-1-3 r <f bes> <f bes> <f c'> r <f bes> |
+  r16 <d f a>-1-2-3 <d f a> <d f a> r <f a>-1-3 r <f bes> <f bes> <f c'> r <f bes> |
   r <f a>-3-5 <f a> <f a> r <f a> r <g d> <g d> <g d> r <g d> |
   r <a a,> <a a,> <a a,> r <a g a,> r <a f a,> <a f a,> <a f a,> r <d, f a>-1-2-4 |
   r <c e a>-1-2-4 <c e a> <d e b'> r <gis e b>-1-2-4 r <a e c>-1-2-5 <a e c> <a e c> <a a,>8-1-5 | %Mein...
@@ -36,11 +36,11 @@ hält _ ihn warm. _ Mein |
 }
 
 intro_a_lh = \relative c' {
-  d,,16 d'-2 \repeat unfold 4 {d}
-  d, \repeat unfold 3 {<es' d>} <es c> <es c> |
-  d, \repeat unfold 3 {<es' c>} <d bes> <d bes>
+  d,,16 d'-1-2 \repeat unfold 4 {d}
+  d, <es' d>-1-2 <es d> <es d> <es c> <es c> |
+  d, <es' c>-1-2 <es c> <es c> <d bes>-1-3 <d bes>
   d, \repeat unfold 3 {<cis' bes>} <cis a> <cis a> |
-  d, d'-2 d d d d
+  d, d'-1-2 d d d d
   d, \repeat unfold 3<es' d> <es c> <es c> | 
   d, \repeat unfold 5<es' c>
   d, <d' bes>-1-3 <d bes> <d bes> <cis a>8-2-4 | %Wer...

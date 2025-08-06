@@ -13,7 +13,7 @@ meinSohn_a_rh = \relative {
   \time 6/8
   <d, a f>4 <d'' a f>8 <e cis bes g>8.(f16)  <e cis bes g>8 |
   <d a f>4 <d, a f>8 <e cis bes g>8.(f16)  <e cis bes g>8 |
-  <f, a d>4 d8 d4 <f a d>8 | %.. Du | liebes Kind
+  <f, a d>4 d8 d4 <f a d>8-1-2-4 | %.. Du | liebes Kind
   
   
 }

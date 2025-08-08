@@ -10,6 +10,13 @@ g (bes c bes g bes) g (bes c bes g bes) |
 f-1( bes d es <f, a c>8-2-3-4) <d f bes>4-1-2-3 <d' d,>8 | %Mein...
 }
 
+duLiebes_b_rh = \relative c'{
+<d' f, d>4 <d a f>8 <cis g e>4  <cis g e>8 |
+<d f, d>4 <d a f>8 <cis g e>4 <cis a g>8 |
+<d a f>4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 |
+<d g, d>8.( <cis cis,>16 <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
+}
+
 duLiebes_a_lh = \relative c'{
 <d bes>4-1-3 <d bes> 8 <d bes> 4 <d bes> 8 |
 <es bes>4-1-3 <es bes> 8 <es bes> 4 <es bes> 8 |
@@ -20,6 +27,12 @@ duLiebes_a_lh = \relative c'{
 <c es,>4 <c es,>8 <c e,>4 <c e,>8 |
 %seite 9
 <d f,>4-1-4 <es f,>8 r16  <bes bes,> <bes bes,> <bes bes,> <bes bes,>8 | %Mein...
+}
+
+duLiebes_b_lh = \relative c{
+  \repeat unfold 2 {r16 <d d,> <d d,> <d d,> r <d d,> r <bes' bes,> <bes bes,> <bes bes,> r <a a,> |}
+  r <d, d,> <d d,> <d d,> r <d d,> r <d d,> <d d,> <d d,> r <d d,> |
+  r <bes' bes,> <bes bes,> <bes bes,>  r <bes bes,> r <a a,> <a a,> <a a,> r a, |
 }
 
 duLiebes_a_lyrics = \lyricmode {
@@ -33,5 +46,11 @@ Mut4-ter8 hat4 manch8 |
 gül4-den_Ge-8 wand4 Mein8 |
 }
 
-
+duLiebes_b_lyrics = \lyricmode {
+  Va-8 ter mein Va ter und | 
+  hö- rest du nicht _ Was |
+  Er-4 len-8 kö- nig mir |
+  lei- se ver- spricht? _ Sei |
+  
+}
 

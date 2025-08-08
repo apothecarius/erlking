@@ -51,7 +51,7 @@ intro_b_lh = \relative c'{
   <bes bes'>4 <bes'' bes,>8 <g g,>4 <g g,>8|
   <c, c,> <c c'> <bes' bes,> <a a,>4 <a a,>8 |
   %ende Seite 6 (erste Seite)
-  <d, d,>4 d8( d'4) d8 |
+  <d, d,>4 d8-5	( d'4) d8 |
   d,4 d8( bes'4-2) bes8 |
   f4-1 e8 d4 b8-5 |
   e4-1 e,8 a4-3 r16 a | %Mein...

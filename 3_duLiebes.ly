@@ -14,7 +14,7 @@ duLiebes_b_rh = \relative c'{
 <d' f, d>4 <d a f>8 <cis g e>4  <cis g e>8 |
 <d f, d>4 <d a f>8 <cis g e>4 <cis a g>8 |
 <d a f>4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 |
-<d g, d>8.( <cis cis,>16 <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
+<d g, d>8.( <cis cis,>16) <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
 }
 
 duLiebes_a_lh = \relative c'{

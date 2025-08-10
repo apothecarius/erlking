@@ -11,8 +11,8 @@ meinSohn_a_rh = \relative {
   \time 9/8
   <f d a>8.-1-3-5 e16 <d a>8 <g cis, bes>8. f16 <e cis bes>8 <a d, a>8. gis16 <a cis, a>8 |
   \time 6/8
-  <d, a f>4 <d'' a f>8-1-2-3 <e cis bes g>8.-1-2-3-4(f16)  <e cis bes g>8 |
-  <d a f>4 <d, a f>8 <e cis bes g>8.(f16)  <e cis bes g>8 |
+  <d, a f>4-1-2-3 <d'' a f>8-1-2-3 <e cis bes g>8.-1-2-3-4(f16)  <e cis bes g>8 |
+  <d a f>4 <d, a f>8-1- 2-3 <e cis bes g>8.(f16)  <e cis bes g>8 |
   <f, a d>4 d8 d4 <f a d>8-1-2-4 | %.. Du | liebes Kind
   
   

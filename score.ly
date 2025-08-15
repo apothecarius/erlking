@@ -21,12 +21,14 @@
         \meinSohn_a_rh
         \duLiebes_a_rh
         \duLiebes_b_rh
+        \duLiebes_c_rh
       }
     \new Lyrics{
       \intro_lyrics
       \meinSohn_lyrics
       \duLiebes_a_lyrics
       \duLiebes_b_lyrics
+      \duLiebes_c_lyrics
     }  
       \new Staff \relative c' {
         \time 6/8
@@ -39,6 +41,7 @@
         \meinSohn_a_lh
         \duLiebes_a_lh
         \duLiebes_b_lh
+        \duLiebes_c_lh
       }
     
   >>

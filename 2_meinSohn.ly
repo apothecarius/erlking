@@ -8,8 +8,8 @@ meinSohn_a_rh = \relative {
   <bes bes,>4 <g g,>8 <e e,>8. <g g,>16\staccato <g g,>( <a a,>) |
   <bes bes,>8.(<a a,>16 <g g,> <f f,>) <e e,>4 <e e,>8 | 
   %ende Seite 7
-  \time 9/8
-  <f d a>8.-1-3-5 e16 <d a>8 <g cis, bes>8. f16 <e cis bes>8 <a d, a>8. gis16 <a cis, a>8 |
+  \time 9/8 <f d a>8.-1-3-5 e16 <d a>8 
+  <g cis, bes>8. f16 <e cis bes>8 <a d, a>8. gis16 <a cis, a>8 |
   \time 6/8
   <d, a f>4-1-2-3 <d'' a f>8-1-2-3 <e cis bes g>8.-1-2-3-4(f16)  <e cis bes g>8 |
   <d a f>4 <d, a f>8-1-2-3 <e cis bes g>8.(f16)  <e cis bes g>8 |

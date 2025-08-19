@@ -36,20 +36,24 @@ duLiebes_a_lh = \relative c'{
 <d d,>4 <d d,>8 <d g,>4-1-3 <d g,>8 |
 <c es,>4-1-5 <c es,>8 <c e,>4-1-5 <c e,>8 |
 %seite 9
-<d f,>4-1-4 <es f,>8-1-4 r16  <bes bes,> <bes bes,> <bes bes,> <bes bes,>8 | %Mein...
+<d f,>4-1-4 <es f,>8-1-4 r16  <bes bes,> 
+<bes bes,> <bes bes,> <bes bes,>8 | %Mein...
 }
 
 duLiebes_b_lh = \relative c{
-  \repeat unfold 2 {r16 <d d,> <d d,> <d d,> r <d d,> r <bes' bes,> <bes bes,> <bes bes,> r <a a,> |}
+  \repeat unfold 2 {r16 <d d,> <d d,> <d d,> r <d d,> r 
+                    <bes' bes,> <bes bes,> <bes bes,> r <a a,> |}
   r <d, d,> <d d,> <d d,> r <d d,> r <d d,> <d d,> <d d,> r <d d,> |
-  r <bes' bes,> <bes bes,> <bes bes,>  r <bes bes,> r <a a,> <a a,> <a a,> r a, |
+  r <bes' bes,> <bes bes,> <bes bes,> r <bes bes,> 
+  r <a a,> <a a,> <a a,> r a, |
 }
 
 duLiebes_c_lh = \relative c{
   r16 bes bes bes r g r e e e r g |
   r bes bes( a g f) r e e e r e|
   \time 9/8 r d d e f8 r16 e e f g8 r16 f f( d) a'8 |
-  \time 6/8 r16 <d d,>( <d d,> <d d,> r <d d,>) r <d d,>8 <d d,>16( <d d,>8) |
+  \time 6/8 r16 <d d,>( <d d,> <d d,> r <d d,>) 
+  r <d d,>8 <d d,>16( <d d,>8) |
 }
 
 

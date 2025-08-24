@@ -1,20 +1,20 @@
 willstFeiner_a_rh = \relative c'{
-  d16( f bes f d f) d( f bes f d f) |
-  es( f a f es f) d( f bes f d f) | %ende seite 9
+  d16-1( f-2 bes-5 f d f) d( f bes-5 f d f) |
+  es( f a-4 f es f) d( f bes f d f) | %ende seite 9
   es( f a f es f) es( f a f es f) |
-  d( f bes f d bes') as( bes d bes as bes) |
-  g( bes es bes g bes) ges(bes es bes ges bes) |
-  f( a c a f a) g( bes c bes g bes) |
-  g(bes c bes g bes) f(bes d es) <f, a c>8 |
-  \time 3/8 r16 f bes f <d' d,>8 |%TODO achtel von den sechzehntel lösen %mein... vater mein vater und siehst du nicht dort
+  d( f bes-4 f d bes'-2) as-1( bes d-4 bes as bes) |
+  g( bes es-5 bes g bes) ges(bes es bes ges bes) |
+  f( a c-3 a f a) g( bes c bes g bes) |
+  g(bes c bes g bes) f-1(bes-3 d-4 es-5) <f, a c>8-2-3-4 |
+  \time 3/8 r16 f-2 bes-4 f <d' d,>8 |%TODO achtel von den sechzehntel lösen %mein... vater mein vater und siehst du nicht dort
 }
 
 willstFeiner_a_lh = \relative c{
   <f bes,>4 <f bes,>8 \repeat unfold 5 {<f bes,>4 <f bes,>8}
-  <f bes,>4 bes8( f'4) bes,8( |
-  es4 d8 c4) c8(|
-  f4) <c f,>8 <c es,>4 <c es,>8|
-  <c e,>4 <c e,>8 <d f,>4 <es f,>8 |
+  <f bes,>4 bes8-5( f'!4) bes,8( |
+  es4-2 d8-3 c4-4) c8-1(|
+  f,4-5) <c' f,>8 <c es,>4 <c es,>8| %erstes F eine oktave tiefer?
+  <c e,!>4 <c e,>8 <d f,>4-1-4 <es f,>8 |
   \time 3/8 <d bes>4 r8 |
 }
 

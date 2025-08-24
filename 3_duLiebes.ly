@@ -12,18 +12,18 @@ f-1( bes-3 d es <f, a c>8-2-3-4) <d f bes>4-1-2-3 <d' d,>8 | %Mein...
 
 duLiebes_b_rh = \relative c'{
 <d' f, d>4 <d a f>8-2-3-5 <cis g e>4  <cis g e>8 |
-<d f, d>4 <d a f>8-2-3-5 <cis g e>4 <cis a g>8 |
-<d a f>4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 |
-<d g, d>8.( <cis cis,>16) <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
+<d f, d>4 <d a f>8-2-3-5 <cis g e>4-1-2-4 <cis a g>8 |
+<d a f>4-1-2-4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 |
+<d g, d>8.-1-2-4( <cis cis,>16-1-3) <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
 }
 
 duLiebes_c_rh = \relative c''{
   <bes bes,>4 <g g,>8 <e e,>4 <g g,>8 |
   <bes bes,>8.( <a a,>16 <g g,> <f f,>) <e e,>4 <e e,>8 |
   \time 9/8 <<{<f d>8.( e16 d8)} \\ {a4 a8}>>
-  << {g'8.( f16 e8)} \\ {<cis bes>4 <cis bes>8} >>
+  << {g'8.( f16 e8-1-2-3)} \\ {<cis bes>4 <cis bes>8} >>
   << {a'8.( gis16 a8)} \\ {<d, a>4 <cis a>8} >> |
-  \time 6/8 <d a f>4 <a' f d a>8 <a f d a>4 <bes f d bes>8  | %Willst feiner Knabe ...
+  \time 6/8 <d a f>4-1-2-3 <a' f d a>8 <a f d a>4 <bes f d bes>8-1-2-3-5  | %Willst feiner Knabe ...
 }
 
 
@@ -45,13 +45,13 @@ duLiebes_b_lh = \relative c{
                     <bes' bes,> <bes bes,> <bes bes,> r <a a,> |}
   r <d, d,> <d d,> <d d,> r <d d,> r <d d,> <d d,> <d d,> r <d d,> |
   r <bes' bes,> <bes bes,> <bes bes,> r <bes bes,> 
-  r <a a,> <a a,> <a a,> r a, |
+  r <a a,> <a a,> <a a,> r a,-2 |
 }
 
 duLiebes_c_lh = \relative c{
-  r16 bes bes bes r g r e e e r g |
-  r bes bes( a g f) r e e e r e|
-  \time 9/8 r d d e f8 r16 e e f g8 r16 f f( d) a'8 |
+  r16 bes bes bes r g-3 r e e e r g |
+  r bes bes( a g f-4) r e-4 e e r e|
+  \time 9/8 r d-5 d e f8 r16 e-4 e f g8 r16 f-3 f( d) a'8 |
   \time 6/8 r16 <d d,>( <d d,> <d d,> r <d d,>) 
   r <d d,>8 <d d,>16( <d d,>8) |
 }

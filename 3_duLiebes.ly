@@ -12,8 +12,8 @@ f-1( bes-3 d es <f, a c>8-2-3-4) <d f bes>4-1-2-3 <d' d,>8 | %Mein...
 
 duLiebes_b_rh = \relative c'{
 <d' f, d>4 <d a f>8-2-3-5 <cis g e>4  <cis g e>8 |
-<d f, d>4 <d a f>8-2-3-5 <cis g e>4-1-2-4 <cis a g>8 |
-<d a f>4-1-2-4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 |
+<d f, d>4 <d a f>8-2-3-5 <cis g e>4-1-2-4 <cis a g>8-1-2-3 | %sprung vom letzten akkord, weil das ein satz mit dem nächsten takt ist
+<d a f>4-1-2-4( <e e,>8) <f a, d,>8.(<e e,>16) <d a f>8 | %erster Akkord braucht Zweiten auf A, für die Dezime
 <d g, d>8.-1-2-4( <cis cis,>16-1-3) <d g, d>8 <e g, cis,>4 <a, a,>8 | %Sei...
 }
 

@@ -26,10 +26,10 @@ meinSohn_a_lh = \relative {
   r <a,, d,> <a d,> <a d,> r <a d,> r <a d,> <a d,> <a d,> r <a d,> |
   r bes bes bes r a r g g g r a|
   r bes bes bes r g r e\staccato e\staccato g\staccato g(a) |
-  r bes\staccato bes(a g f) r e e e r e-4|
+  r bes\staccato bes(a g f) r e-4 e e r e|
   %ende Seite 7
   \time 9/8 
-  r d\staccato d(e f8) r16 e\staccato e(f g8) r16 f\staccato f(d a'8) |
+  r d\staccato d-5(e f8) r16 e\staccato e(f g8) r16 f\staccato f(d a'8) |
   \time 6/8
   r16 <d d,> <d d,> <d d,> r <d d,> r <d d,> <d d,> <d d,> r <d d,>
   r16 <d d,> <d d,> <d d,> r <d d,> r <d d,> <d d,> <d d,> r <d d,>

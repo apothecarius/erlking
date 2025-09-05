@@ -25,6 +25,7 @@
         \duLiebes_c_rh
         \willstFeiner_a_rh
         \willstFeiner_b_rh
+        \willstFeiner_c_rh
       }
     \new Lyrics{
       \intro_lyrics
@@ -34,6 +35,7 @@
       \duLiebes_c_lyrics
       \willstFeiner_a_lyrics
       \willstFeiner_b_lyrics
+      \willstFeiner_c_lyrics 
     }  
       \new Staff \relative c' {
         \time 6/8
@@ -49,6 +51,7 @@
         \duLiebes_c_lh
         \willstFeiner_a_lh
         \willstFeiner_b_lh
+        \willstFeiner_c_lh
       }
     
   >>

@@ -21,18 +21,18 @@ willstFeiner_b_rh = \relative c''{
   \time 6/8 <d, bes>4-2-4 <d a>8 <e d g,>4 <e d gis,>8 | %Ich... liebe dich
 }
 willstFeiner_c_rh = \relative c'{
-  r16 <a' e cis> r <a e cis> r <a e cis>
-    r <bes f d> r <bes f d> r <bes f d> |
+  r16 <a' e cis>-1-2-5 r <a e cis> r <a e cis>
+    r <bes f d>-1-2-4 r <bes f d> r <bes f d> |
   r <b f d> r <b f d> r <b f d>
-    r <cis g e> r <b! g e> r <cis g e> |
+    r <cis g e>-1-2-4 r <b! g e> r <cis g e> |
   r <d f, d> r <d f, d> r <d f, d> 
     r <d f, d> r <cis f, cis> r <d f, d> |
   r <f d gis, f> r <f d gis, f> r <f d gis, f> <f d gis, f>4 r8 |
-  r16 <a, f d> r <a f d> r <a f d> r <a e d> r <gis e d> r <a e cis> |
+  r16 <a, f d>-1-2-3 r <a f d> r <a f d> r <a e d> r <gis e d> r <a e cis>-1-2-3 |
   <d a f d>4 <a a,>8 |
   \time 6/8 <a f d a>4 <a f d a>8 <bes f d bes>4 <bes f bes,>8 |
-  <b! gis f b,>4 <b gis f b,>8 
-    <c a fis c>16 \repeat unfold 11 <c a fis c> <c a e c>4 r8 | %Erl...könig hat mir
+  <b! gis f b,>4-1-3-4-5 <b gis f b,>8 
+    <c a fis c>16-1-3-4-5 \repeat unfold 11 <c a fis c> <c a e c>4-1-2-4-5 r8 | %Erl...könig hat mir
 }
 
 willstFeiner_a_lh = \relative c{
@@ -95,7 +95,7 @@ willstFeiner_c_lyrics = \lyricmode {
   wi-4. llig |
   _8 _ So brauch ich Ge- |
   \time 3/8 walt.4 Mein8 |
-   \time 6/8 Va-8 ter mein  Va- ter, jetzt |
-   fasst er mich an4. |
+  \time 6/8 Va-8 ter mein  Va- ter, jetzt |
+  fasst er mich an4. |
   _8 _ _ _ _ Erl- |
 }

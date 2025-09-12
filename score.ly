@@ -3,6 +3,7 @@
 \include "2_meinSohn.ly"
 \include "3_duLiebes.ly"
 \include "4_willstFeiner.ly"
+\include "5_erlkoenigHat.ly"
 
 \header {
 	title = "Erlkönig"
@@ -26,6 +27,9 @@
         \willstFeiner_a_rh
         \willstFeiner_b_rh
         \willstFeiner_c_rh
+        \erlkoenigHat_a_rh
+        \erlkoenigHat_b_rh
+        \erlkoenigHat_c_rh
       }
     \new Lyrics{
       \intro_lyrics
@@ -36,6 +40,8 @@
       \willstFeiner_a_lyrics
       \willstFeiner_b_lyrics
       \willstFeiner_c_lyrics 
+      \erlkoenigHat_a_lyrics
+      \erlkoenigHat_b_lyrics
     }  
       \new Staff \relative c' {
         \time 6/8
@@ -52,6 +58,9 @@
         \willstFeiner_a_lh
         \willstFeiner_b_lh
         \willstFeiner_c_lh
+        \erlkoenigHat_a_lh
+        \erlkoenigHat_b_lh
+        \erlkoenigHat_c_lh
       }
     
   >>

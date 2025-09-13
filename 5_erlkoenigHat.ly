@@ -18,7 +18,7 @@ erlkoenigHat_b_rh = \relative c'{
   <a, d f>-1-3-5 d-3 d d d d
   r \repeat unfold 3 <es d> <es c><es c> |
   r <fis c a>-1-2-5 \repeat unfold 4 <fis c a>
-  r <g bes, g>-1-2-5 <g bes, g> <g bes, g> <cis, g e> <cis g e> |
+  r <g bes, g>-2-3-5 <g bes, g> <g bes, g> <cis, g e>-1-2-4 <cis g e> |
 }
 erlkoenigHat_c_rh = \relative c'{
   r16 <a' f d> <a f d> <a f d> <a f d> <a f d>
@@ -26,9 +26,9 @@ erlkoenigHat_c_rh = \relative c'{
   r <a f d> <a f d> <a f d> <d, a f> <d a f>
     r <g cis, bes> <g cis, bes> <g cis, bes> <g cis, a> <g cis, a> |
   r <f d a> <f d a> <f d a> <f d a> <f d a> <f d a>4 <f d a>8 |
-  \clef bass <e bes g>4 <e bes g>8 <d a f>4 <d a f>8 |
-  <d bes g e>2. |
-  <cis a g e> |
+  \clef bass <e bes g>4 <e bes g>8 <d a f>4-1-2-4 <d a f>8-1-2-5 |
+  <d bes g e>2.-1-2-3-5 |
+  <cis a g e>-1-2-3-4 |
   <d a f d>16 d, d d r d r d d d r d |
   R2. |
 }
@@ -56,9 +56,7 @@ erlkoenigHat_c_lh = \relative {
   \repeat unfold 3 {r16 <d d,> <d d,> <d d,> r <d d,>} |
   \repeat unfold 4 { r d, d d r d} |
   d4 d8 d4 d8 |
-  <d d,>2.
-  
-  
+  <d d,>2. %Extra Bassoktave, weil wieso auch nicht
 }
 
 erlkoenigHat_a_lyrics = \lyricmode {

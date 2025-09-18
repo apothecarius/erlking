@@ -4,8 +4,8 @@ erlkoenigHat_a_rh = \relative c'' {
   r4 r8 <b gis d>4 r8 |
   \time 3/8 <a e c>4 <a a,>8 |
   \time 6/8 <a e cis>4 <a e cis>8 <bes! f d>4 <bes f d>8 |
-  <cis g e>4 <cis g e>8 <d a f>4 <d a f>8 |
-  <d gis, f>4 <gis, f d>8 <a f d>4 \clef bass <d, a f>8 |
+  <cis g e>4-1-2-4 <cis g e>8 <d a f>4-2-3-5 <d a f>8 |
+  <d gis, f>4-2-3-5 <gis, f d>8 <a f d>4-1-2-4 \clef bass <d, a f>8 |
   r8 <d bes g e>4 r8 <cis a g e>4 \clef violin |
 }
 
@@ -29,7 +29,7 @@ erlkoenigHat_c_rh = \relative c'{
   \clef bass <e bes g>4 <e bes g>8 <d a f>4-1-2-4 <d a f>8-1-2-5 |
   <d bes g e>2.-1-2-3-5 |
   <cis a g e>-1-2-3-4 |
-  <d a f d>16 d, d d r d r d d d r d |
+  <d a f d>16-1-2-3-5 d, d d r d r d d d r d |
   R2. |
 }
 

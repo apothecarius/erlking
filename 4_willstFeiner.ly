@@ -28,9 +28,9 @@ willstFeiner_c_rh = \relative c'{
   r <d f, d> r <d f, d> r <d f, d> 
     r <d f, d> r <cis f, cis> r <d f, d> |
   r <f d gis, f>-1-2-4-5 r <f d gis, f> r <f d gis, f> <f d gis, f>4 r8 |
-  r16 <a, f d>-1-2-4 r <a f d> r <a f d> r <a e d> r <gis e d>-1-2-3 r <a e cis>-1-2-3 |
+  r16 <a, f d>-1-2-4 r <a f d> r <a f d> r <a e d>-1-2-4 r <gis e d>-1-2-3 r <a e cis>-1-2-3 |
   <d a f d>4-1-2-3-5 <a a,>8 |
-  \time 6/8 <a f d a>4 <a f d a>8 <bes f d bes>4 <bes f bes,>8 |
+  \time 6/8 <a f d a>4 <a f d a>8 <bes f d bes>4 <bes f bes,>8-1-3-5 |
   <b! gis f b,>4-1-3-4-5 <b gis f b,>8 
     <c a fis c>16-1-3-4-5 \repeat unfold 11 <c a fis c> <c a e c>4-1-2-4-5 r8 | %Erl...könig hat mir
 }

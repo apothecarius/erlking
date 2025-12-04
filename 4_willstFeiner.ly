@@ -2,7 +2,7 @@ willstFeiner_a_rh = \relative c'{
   d16-1( f-2 bes-5 f d f) d( f bes-5 f d f) |
   es( f a-4 f es f) d( f bes f d f) | %ende seite 9
   es( f a f es f) es( f a f es f) |
-  d( f bes-4 f d bes'-2) as-1( bes d-4 bes as bes) |
+  d( f bes-4 f d-1 bes'-2) as-1( bes d-4 bes as bes) |
   g( bes es-5 bes g bes) ges(bes es bes ges bes) |
   f( a c-3 a f a) g( bes c bes g bes) |
   g(bes c bes g bes) f-1(bes-3 d-4 es-5) <f, a c>8-2-3-4 |

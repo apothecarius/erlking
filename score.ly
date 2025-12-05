@@ -14,8 +14,8 @@
 
 \paper {
   %normal 27 Systeme
-  system-count = 25 %staucht 16tel Blöcke arg
-  %page-count = 5
+  system-count = 25 % staucht die 16tel Blöcke, aber geht schon
+  %page-count = 5 % Elemente überschneiden sich auf der letzten Seite wenn die Tempoangabe auch da ist.
 }
 
 % 1/8 = 130 , in Intro programmiert

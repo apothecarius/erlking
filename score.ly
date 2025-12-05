@@ -11,7 +11,15 @@
 	composer = "L. v. Beethoven"
 	arranger = "Reinhold Becker"
 }
-% 1/8 = 130
+
+\paper {
+  %normal 27 Systeme
+  system-count = 25 %staucht 16tel Blöcke arg
+  %page-count = 5
+}
+
+% 1/8 = 130 , in Intro programmiert
+
 \score {
   \layout{}
   <<

@@ -1,6 +1,7 @@
 \version "2.24.4"
 
 intro_a_rh = \relative c' {
+  \tempo 8 = 130 
   r16 d-3 \repeat unfold 4 {d}
   r < es d>-3-4 < es d> < es d> <es c><es c> |
   r <fis c a>-1-2-5 \repeat unfold 2 <fis c a> <g d bes>-2-3-5 <g d bes>

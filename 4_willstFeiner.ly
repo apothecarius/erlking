@@ -38,7 +38,7 @@ willstFeiner_c_rh = \relative c'{
 willstFeiner_a_lh = \relative c{
   <f bes,>4 <f bes,>8 \repeat unfold 5 {<f bes,>4 <f bes,>8}
   <f bes,>4 bes8-5( f'!4) bes,8( |
-  es4-2 d8-3 c4-4) c8-1(|
+  es4-2 d8-3 c4-1) c8-1(|
   f,4-5) <c' f,>8 <c es,>4 <c es,>8| %erstes F eine oktave tiefer?
   <c e,!>4 <c e,>8 <d f,>4-1-4 <es f,>8 |
   \time 3/8 <d bes>4 r8 |
